@@ -1,0 +1,21 @@
+{
+  "name": "projectoDos2",
+  "homepage": "https://github.com/josealej05/projectDos",
+  "authors": [
+    "josealej89 <alej89_is@hotmail.com>"
+  ],
+  "description": "pagina de prueba",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
